@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352676171998",
+    "project_id": "acommercetestapp",
+    "storage_bucket": "acommercetestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352676171998:android:89bdb996eebbbf64e5b24f",
+        "android_client_info": {
+          "package_name": "com.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352676171998-34iasgrqlmkljp6e0q642qke8glt77q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHGazGJRAq5KSTv5pH1FuAv-uhjHPKG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352676171998-34iasgrqlmkljp6e0q642qke8glt77q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
